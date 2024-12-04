@@ -2,7 +2,7 @@
 
 [Pixie](https://github.com/pixiemc) + [Mixin](https://github.com/SpongePowered/Mixin) = Pixin
 
-It makes Pixie work via a mixin. 1.20.1 only because that's what I did it in, no reason it can't do it otherwise and there's probably a way to make it do fancy things but I didn't.
+It makes Pixie work via a mixin. 1.20.1 only because that's what I did it in, no reason it can't do others and there's probably a way to make it do fancy multiversion but I didn't.
 
 ## Usage
 
