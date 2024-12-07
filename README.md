@@ -2,7 +2,7 @@
 
 [Pixie](https://github.com/pixiemc) + [Mixin](https://github.com/SpongePowered/Mixin) = Pixin
 
-It makes Pixie work via a mixin. Works on any version (at least 1.18+) fabric. (thanks to [curseforge/pixiemod for the multiversion enlightenment](https://codeberg.org/cursefroge/PixieMod))
+It makes Pixie work via a mixin. Works on any version of fabric. (thanks to [curseforge/pixiemod for the multiversion enlightenment](https://codeberg.org/cursefroge/PixieMod))
 
 ## Usage
 
