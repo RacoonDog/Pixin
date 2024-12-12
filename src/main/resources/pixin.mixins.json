@@ -6,9 +6,6 @@
   "mixins": [
     "EssentialConnectionMixin"
   ],
-  "client": [
-    "EssentialConnectionMixin"
-  ],
   "injectors": {
     "defaultRequire": 1
   }

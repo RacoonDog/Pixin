@@ -11,14 +11,6 @@
   "license": "All-Rights-Reserved",
   "icon": "assets/pixin/icon.png",
   "environment": "*",
-  "entrypoints": {
-    "client": [
-      "com.anotherpillow.pixin.client.PixinClient"
-    ],
-    "main": [
-      "com.anotherpillow.pixin.Pixin"
-    ]
-  },
   "mixins": [
     "pixin.mixins.json"
   ],
